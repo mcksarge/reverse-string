@@ -10,6 +10,8 @@ function reverseString(str) {
   return revStr.join("");
 };
 
+
+
 if (require.main === module) {
   // add your own tests in here
   console.log("Expecting: 'ih'");
